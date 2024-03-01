@@ -1,14 +1,10 @@
-/* Critical CSS for above-the-fold content */
-/* Please replace the selectors with the appropriate ones from your HTML */
 
-/* Global resets */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Critical styles for header */
 header {
     position: fixed;
     top: 0;
